@@ -2,7 +2,7 @@ public class FibonacciExample {
 
     public static void main(String[] args) {
 
-        int n = 10, t1 = 0, t2 = 1;
+        int n = 15, t1 = 0, t2 = 1;
         System.out.print("First " + n + " terms: ");
 
         for (int i = 1; i <= n; ++i)
